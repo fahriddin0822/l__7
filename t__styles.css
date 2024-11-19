@@ -22,34 +22,6 @@ body {
     overflow: hidden;
 }
 
-.window__controls {
-    background: #f0f0f0;
-    padding: 10px;
-    display: flex;
-    gap: 6px;
-    align-items: center;
-    border-bottom: 1px solid #e0e0e0;
-}
-
-.control {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    display: inline-block;
-}
-
-.close {
-    background: #ff5f56;
-}
-
-.minimize {
-    background: #ffbd2e;
-}
-
-.maximize {
-    background: #27c93f;
-}
-
 .table-container {
     padding: 20px;
     overflow-x: auto;
